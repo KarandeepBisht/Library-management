@@ -1,0 +1,56 @@
+
+#header{
+height:25%; 
+background-color:blue; 
+color:red;
+}
+#content{
+    height:65%;
+    float:white;
+}
+#left{
+    height:100%; 
+    width:70%; 
+    float:left;
+}
+#right{
+    height:100%;
+    width:30%; 
+    float:left;
+    background-color: fuchsia;
+}
+#menubar{
+	list-style-type: name; 
+}
+#menubar li{
+	display: inline;
+	margin: 10px;
+	background-color: fuchsia;
+	padding: 10px;
+}
+#menubar li a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#footer{
+    height:10%; 
+    background-color:yellow; 
+    color:red;
+}
+#usermenu
+{
+	list-style-type:none;
+}
+#usermenu li
+{
+	background-color:black;
+	margin:10px;
+	padding:5px;
+}
+#usermenu li a
+{
+	color:white;
+	text-decoration:none;
+}
